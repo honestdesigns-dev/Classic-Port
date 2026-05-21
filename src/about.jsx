@@ -11,7 +11,7 @@ import Premiere from "./assets/pr.png";
 import Creative from "./assets/creatie.png";
 import Spline from "./assets/spline.png";
 import Rush from "./assets/rush.png";
-import Blender from "./assets/blender.png";
+
 
 const About = () => {
   const tools = [
@@ -24,8 +24,7 @@ const About = () => {
     { img: Premiere, name: "Premiere" },
     { img: Creative, name: "Creatie" },
     { img: Spline, name: "Spline" },
-    { img: Rush, name: "Premiere Rush" },
-    { img: Blender, name: "Blender" }
+    { img: Rush, name: "Premiere Rush" }
   ];
 
   const skills = [
