@@ -11,8 +11,7 @@ import Premiere from "./assets/pr.png";
 import Creative from "./assets/creatie.png";
 import Spline from "./assets/spline.png";
 import Rush from "./assets/rush.png";
-import Blender from "./assets/Blender.png";
-import profilePic from "./assets/aest.jpg";
+import Blender from "./assets/blender.png";
 
 const About = () => {
   const tools = [
