@@ -2,7 +2,7 @@ import React from 'react';
 import Nav from './nav';
 import './about.css';
 import Figma from "./assets/fig.png";
-import Framer from "./assets/Framer.png";
+import Framer from "./assets/framer.png";
 import Adobe from "./assets/xd.png";
 import Illustrator from "./assets/ai.png";
 import Aftereffects from "./assets/ae.png";
